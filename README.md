@@ -1,2 +1,2 @@
 # NMT-seq2seq
-a easy seq2seq program
+an easy seq2seq program
